@@ -1,2 +1,3 @@
 # LuckyNumber
-Build a mini game
+Build a mini game with java
+
